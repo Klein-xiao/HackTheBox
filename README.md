@@ -17,7 +17,7 @@
 
 ## 🎯 Highlights & Tips
 
-### 🔍 Archetype
+### 🔍 [Archetype](https://github.com/Klein-xiao/HackTheBox/edit/main/Archetype.md)
 - **Key Steps**:  
   - SMB enumeration → Found sensitive credentials in `prod.dtsConfig`.  
   - MSSQL → Impacket's `mssqlclient.py` → WinPEAS for privilege escalation.  
