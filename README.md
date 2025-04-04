@@ -17,7 +17,7 @@ A repository dedicated to documenting penetration testing methodologies, exploit
 
 ## 🔍 Penetration Testing Documentation
 
-### 1. Bucket.md  
+### 1. Bucket.md  [VIDEO](https://youtu.be/OWEueGdANTU)
 **Target:** AWS S3 Bucket Misconfiguration  
 **Key Steps:**  
 - S3 Bucket Hijacking via Subdomain Takeover  
