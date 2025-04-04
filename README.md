@@ -9,7 +9,7 @@ A repository dedicated to documenting penetration testing methodologies, exploit
 ```bash
 .
 ├── Archetype.md        # Penetration report for "Archetype" machine
-├── Bucket.md           # Full walkthrough for "Bucket" challenge 
+├── Bucket.md           # YOUTUBE VIDEO: https://youtu.be/OWEueGdANTU
 ├── Oopsie.md           # Vulnerability exploit analysis for "Oopsie"
 ├── Three.md            # Multi-stage attack documentation for "Three" machine
 └── ...                 # Ongoing updates for other challenges
